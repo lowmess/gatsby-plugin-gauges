@@ -1,4 +1,4 @@
-# gatsby-plugin-google-analytics
+# gatsby-plugin-gauges
 
 Easily add [Gauges analytics](https://get.gaug.es) to your Gatsby site.
 
@@ -14,8 +14,8 @@ plugins: [
   {
     resolve: `gatsby-plugin-gauges`,
     options: {
-      siteId: "YOUR_GAUGES_SITE_ID",
+      siteId: 'YOUR_GAUGES_SITE_ID',
     },
   },
-];
+]
 ```
