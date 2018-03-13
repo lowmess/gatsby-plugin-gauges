@@ -9,6 +9,10 @@
     "url": "https://github.com/lowmess/gatsby-plugin-gauges/issues"
   },
   "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ],
   "dependencies": {
     "babel-plugin-transform-flow-strip-types": "^6.22.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
