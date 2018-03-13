@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-gauges",
   "description": "Gatsby plugin to add Gauges analytics onto a site",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "author": "Alec Lomas <alec@lowmess.com>",
   "repository": "https://github.com/lowmess/gatsby-plugin-gauges",
